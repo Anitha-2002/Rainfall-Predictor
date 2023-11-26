@@ -1,7 +1,6 @@
 # Rainfall-Predictor
-              <h3>Project Overview</h3>
-              <p>
-                A time series analysis performed on the historical rainfall dataset of Bangladesh from 1970 to 
+<h3>Project Overview</h3>
+<p>A time series analysis performed on the historical rainfall dataset of Bangladesh from 1970 to 
                 2016 using ARIMA in R-Studio provides valuable insights into rainfall patterns. Analysis focused on the Rajshahi station in 2007 includes data filtering, conversion to Time Series format and subsequent visualization of historical trends.
 
 Decomposing time series data increases forecast accuracy by addressing underlying trends and seasonality. The ARIMA model, a powerful tool in time series analysis, is used to make the time series stationary and the fitted data is used for forecasting. The result is a robust forecast of precipitation values for the next 4 years, presented with an 85% confidence level.
@@ -9,7 +8,7 @@ Decomposing time series data increases forecast accuracy by addressing underlyin
 Visualizations, including time-series charts and forecasts with forecast intervals, offer a comprehensive understanding of historical and expected precipitation patterns. A critical consideration involves adjusting the Y-axis limit to ensure non-negativity of precipitation values. Confidence intervals provide a different view of the uncertainty associated with predicted values.
 
 In conclusion, this time series analysis, incorporating ARIMA modeling, not only sheds light on past rainfall trends, but also equips stakeholders with forecasts essential for effective water resource management and disaster preparedness. A comprehensive approach to data preparation, modeling and visualization contributes to a holistic understanding of climate conditions and facilitates informed decision-making for years to come.
-              </p>
+</p>
               <p>        
                 The Time Series Analysis conducted on the Historical Rainfall dataset of Bangladesh (1970-2016)
                  using ARIMA modeling in R-Studio provides valuable insights and forecasts for future rainfall
