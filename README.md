@@ -1,41 +1,4 @@
 # Rainfall-Predictor
-<h1 class="heading-primary">Rainfall Prediction using Time-series analysis with ARIMA Model</h1>
-        <div class="project-cs-hero__info">
-          <p class="text-primary">
-            Rainfall is the most important factor for agriculture and a prime input for various engineering 
-            designs such as hydraulic structures, culverts, canals, storm water sewer and road drainage 
-            system. So, it is important to predict this prime source for better usage without any wastage.
-            Time series analysis and forecasting has become a major tool in different applications in 
-            meteorological phenomena, such as rainfall, humidity, temperature, draught etc. and 
-            environmental management fields and so it is used for forecasting the rainfall with the help 
-            of one of the most effective approaches for analysing time series data, the model introduced 
-            by Box and Jenkins, ARIMA (Autoregressive Integrated Moving Average) Machine 
-            Learning Model. Seasonal ARIMA model is used for forecasting monthly rainfall data 
-            taken for Bangladesh’ Raj Shahi station for the period of years1970-2016. In this paper, 
-            ARIMA (1,0,0) (0,1,1) [12] model was found adequate and this model is used to forecasting 
-            the monthly rainfall for the upcoming two - ten years to help decision makers to establish 
-            priorities in terms of water demand management and also to provide useful information for 
-            water resources planners, farmers and urban engineers to assess the availability of water and 
-            create the storage accordingly.
-          </p>
-        </div>
-        <div class="project-cs-hero__cta">
-          <a href="https://www.dropbox.com/scl/fi/4bkboew4bk0358zb25m7s/Gesture_Gaming.exe?rlkey=earfygkfny8irf575vfhl3f5j&dl=0" class="btn btn--bg" target="_blank">Live Link</a>
-        </div>
-      </div>
-    </section>
-    <section class="project-details">
-      <div class="main-container">
-        <div class="project-details__content">
-          <div class="project-details__showcase-img-cont">
-            <img
-              src="./assets/png/rainfall-arima.png"
-              alt="Project Image"
-              class="project-details__showcase-img"
-            />
-          </div>
-          <div class="project-details__content-main">
-            <div class="project-details__desc">
               <h3>Project Overview</h3>
               <p>
                 A time series analysis performed on the historical rainfall dataset of Bangladesh from 1970 to 
